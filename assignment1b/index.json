@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Mike Geller",
+        "username": "mikegeller1816",
+        "email": "mikegeller@gmail.com",
+        "password": "12345",
+        "college": "pict"
+    },
+    {
+        "name": "Manya Rao",
+        "username": "manyarao1816",
+        "email": "manyarao@gmail.com",
+        "password": "6789",
+        "college": "pict"
+    }
+]
